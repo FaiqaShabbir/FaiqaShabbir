@@ -1,13 +1,13 @@
 Hi 👋 My name is Faiqa Shabbir
 ==============================
 
-Data Scientist
+AI & Full Stack Engineer
 --------------
 
 Experienced Senior Data Scientist with over 5 years of expertise in Machine Learning, Deep Learning, and Computer Vision, with a growing focus on Large Language Models (LLMs). Proven track record in delivering innovative solutions across diverse projects, enhancing system accuracies, optimizing performance, and solving complex problems using advanced AI techniques. Skilled in leading cross functional teams, implementing Agile methodologies, and executing end-to-end project development from conception to deployment. Recently, I have expanded my expertise by working on LLM fine tuning, multi-modality systems, and creating scalable AI-driven solutions for real-world applications.
 
 * 🌍  I'm based in Pakistan
-* 🚀  I'm currently working on Turing
+* 🚀  I'm currently working on A.Team
 * 🧠  I'm learning LLM
 * 🤝  I'm open to collaborating on Computer Vision and LLM Projects
 
