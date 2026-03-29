@@ -76,15 +76,6 @@ Currently building agentic AI systems at **Turing** and contributing to **A.Team
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=FaiqaShabbir&show_icons=true&theme=default&hide_border=true" alt="Faiqa's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqaShabbir&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🌍 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiqa-shabbir-ab8703282)
